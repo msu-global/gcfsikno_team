@@ -1,5 +1,7 @@
 <?php
 /**
  * @file
- * Drupal needs this blank file.
+ * Code for the GCFSI Knowledge Platform Team feature.
  */
+
+include_once 'gcfsikno_team.features.inc';
